@@ -2,6 +2,7 @@
 # Download Friten
 **Connect with Friten on all Devices , Resuming Every Chat Right Where You Left Off**
 
+
 Download Friten, the ultimate social media app that revolutionizes the way you connect and share with others. With its innovative features and vibrant community, Friten offers a refreshing and engaging experience that you won't find anywhere else.
 
 To get started, simply visit your device's app store and search for "Friten". Once you find the app, click on the "Download" button to initiate the installation process. Friten is available for both Android and iOS devices, so no matter what smartphone you use, you can join in on the fun.
